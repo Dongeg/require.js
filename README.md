@@ -20,6 +20,7 @@ require.js 模块化
 
 <h3>加载不符合AMD规范模块</h3>
 underscore,underscore不符合amd规范
+
 ```js
 　　require.config({
 　　　　shim: {
